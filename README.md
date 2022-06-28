@@ -2,6 +2,12 @@
 
 Avoid repetitive code by generating the HTML files from the Templates. I created this generator to create multi-page AlpineJS based website that can be hosted in Github pages or in any other static site host.
 
+## Install
+
+```
+curl -fsSL https://github.com/aravindavk/mara/releases/latest/download/install.sh | sudo bash -x
+```
+
 ## Development setup/preview
 
 ```

@@ -1,0 +1,18 @@
+name: mara
+version: 0.1.0
+
+authors:
+  - Aravinda Vishwanathapura <mail@aravindavk.in>
+
+description: |
+  Template based Website generator
+
+targets:
+  mara:
+    main: src/main.cr
+
+dependencies:
+  crinja:
+    github: straight-shoota/crinja
+
+license: MIT
